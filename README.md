@@ -1,5 +1,5 @@
 
-# ios-nd-swift-3-virtualTouris
+# ios-nd-swift-3-virtualTourist
 # Virtual Tourist
 
 GeoLocation app for creating, storing and viewing flickr images based on geographic locations designated by mapCoordiates.
